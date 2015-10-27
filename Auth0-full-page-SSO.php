@@ -3,7 +3,7 @@
 * Plugin Name: Auth0 full page SSO
 * Plugin URI: https://github.com/AllFestivals/Auth0-full-page-SSO
 * Description: Getting namespace and api key from conf of Aut0 plugin. If user is not logged, will add javascript with SSO determine to header. If this one get response with exist SSO, this will redirect of user to login.
-* Version: Verze pluginu, například.: 1.0.0
+* Version: 1.0.0
 * Author: marek
 * License: GPL2
 */
